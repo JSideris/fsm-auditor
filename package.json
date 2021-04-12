@@ -1,0 +1,26 @@
+{
+  "name": "fsm-auditor",
+  "version": "1.0.0",
+  "description": "Library for defining finite state machines to represent the behavior of complex logic. Can be configured to write invalid states to the console, or throw an exception.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JSideris/fsm-auditor.git"
+  },
+  "keywords": [
+    "state-machine",
+    "audit",
+    "behavior",
+    "debugging",
+    "quality"
+  ],
+  "author": "Joshua Sideris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JSideris/fsm-auditor/issues"
+  },
+  "homepage": "https://github.com/JSideris/fsm-auditor#readme"
+}
